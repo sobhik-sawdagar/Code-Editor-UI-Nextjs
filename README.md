@@ -89,8 +89,6 @@ This is a responsive and user-friendly online code editor built with Next.js 14 
 ## 📄 License
 This is an open-source project
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ---
 
 **Happy Coding! 💻✨**
